@@ -5,7 +5,7 @@ Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/maste
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/8TxMhZJK).*
 
-### a) Raspberry Pi Setup, 1h
+### a) Raspberry Pi Setup, 30'
 Die einzelnen Schritte sind in den Slides.
 * Raspberry Pi Setup via USB zum eigenen Computer.
 * "Hello World" in C auf Raspberry Pi speichern.
@@ -14,7 +14,7 @@ Die einzelnen Schritte sind in den Slides.
     $ ./hello</pre>
 * Fertig? Bitte Nachbarn helfen.
 
-### b) GitHub Setup, 1h
+### b) GitHub Setup, 30'
 Die einzelnen Schritte sind in den Slides.
 * GitHub Account einrichten, falls keiner vorhanden.
 * Git (auf Raspberry) Pi installieren und konfigurieren.
